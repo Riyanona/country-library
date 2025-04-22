@@ -5,7 +5,7 @@
 *.userosscache
 *.sln.docstates
 .DS_Store
-
+.idea/
 # User-specific files (Mono Auto Generated)
 mono_crash.*
 
